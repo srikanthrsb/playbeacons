@@ -1,9 +1,11 @@
-package com.sptuts.playbecons;
+package com.sptuts.playbecons.ui;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.sptuts.playbecons.R;
 
 
 public class MainActivity extends AppCompatActivity {
