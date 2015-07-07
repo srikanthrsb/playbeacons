@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.sptuts.playbecons.R;
-
+// This is a Signup Activity
 public class Signup extends AppCompatActivity {
 
     @Override
